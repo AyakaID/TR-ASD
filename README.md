@@ -1,6 +1,4 @@
-# Dokumentasi Teknis: Sistem Manajemen Gudang (gudang.c)
-
-Repositori ini berisi kode program **Sistem Manajemen Gudang** berbasis CLI (Command Line Interface) yang ditulis dalam bahasa pemrograman C. Program ini dirancang untuk mengelola inventaris barang, memvisualisasikan tata letak rak gudang dalam bentuk matriks 2D, mencatat transaksi masuk/keluar, serta melacak riwayat transaksi menggunakan struktur data dinamis.
+# Sistem Manajemen Gudang
 
 ---
 
